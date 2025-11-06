@@ -1,0 +1,17 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9f7ec9b..ebc10ce 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,7 +8,11 @@[m
+ <body>[m
+     <h1>Hellow</h1>[m
+ [m
+[32m+[m
+[32m+[m[32m    <p>this is a feature (dropdown)</p>[m
+[32m+[m
+     <p>this is a feature (button)</p>[m
+[32m+[m
+     [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
